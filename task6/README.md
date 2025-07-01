@@ -1,4 +1,4 @@
-K-Nearest Neighbors (KNN) Classification using Iris Dataset (CSV) 
+KNN Classification on Iris Dataset
 
 ## Objective
 
