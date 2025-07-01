@@ -31,10 +31,10 @@ Learn and implement Decision Tree and Random Forest models for classification, u
 
     Cross-validation
 
-## 📊 Dataset
+##  Dataset
 - **Name**: Heart Failure Prediction Dataset  
 
 
-## 📈 Results
+##  Results
      
   The output are stored in'result'file
